@@ -12,12 +12,16 @@ I'm a student who got an interest in computer science, music and art!
 You can follow my progress here, on Github! or on my social media <br><br>
  
 <a align="left" href="https://twitter.com/oofieisbad">
- <img align="left" src="https://github.com/Fweak/Fweak/blob/master/TwitterLogo.png?raw=true" height="30px" width="30px"/>
+ <img align="left" src="TwitterLogo.png" height="30px" width="30px"/>
  <p align="left">Twitter</p>
 </a>
 <a align="left" href="https://discord.com/users/441816577424228353">
- <img align="left" src="https://github.com/Fweak/Fweak/blob/master/DiscordLogo.png?raw=true" height="30px" width="30px"/>
+ <img align="left" src="DiscordLogo.png" height="30px" width="30px"/>
  <p align="left">Discord</p>
+</a>
+<a align="left" href="https://www.reddit.com/user/B0TPlayer">
+ <img align="left" src="RedditLogo.png" height="30px" width="30px"/>
+ <p align="left">Reddit</p>
 </a>
  
 </details>
