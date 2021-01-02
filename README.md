@@ -1,4 +1,4 @@
-### Hi there!
+### 👋 Hi there!
 
 <details>
 <summary>🤔 What am I? </summary>
@@ -9,23 +9,18 @@ I'm a student who got an interest in computer science, music and art!
 <details>
 <summary>📫 How to contact me? </summary>
 <br>
-You can follow my progress here, on Github! or on my social media <br><br>
+You can follow my progress here, on Github! or on my social media
  
-<div align="left">
- <a href="https://twitter.com/oofieisbad">
-  <p>Twitter</p>
- </a>
- 
- <a href="https://discord.com/users/441816577424228353">
-  <p>Discord</p>
- </a>
- 
- <a href="https://www.reddit.com/user/B0TPlayer">
-  <p>Reddit</p>
- </a>
-</div>
-
+ [Twitter](https://twitter.com/oofieisbad)
+ <br>
+ [Discord](https://discord.com/users/441816577424228353)
+ <br>
+ [Reddit](https://www.reddit.com/user/B0TPlayer)
 </details>
+
+*Cool statistic board thing*
+
+[![oofiedev's github stats](https://github-readme-stats.vercel.app/api?username=oofiedev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **oofiedev/oofiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
