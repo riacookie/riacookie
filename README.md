@@ -11,8 +11,6 @@ I'm a student who got an interest in computer science, music and art!
 <br>
 You can follow my progress here, on Github! or on my social media
  
- [Twitter](https://twitter.com/oofieisbad)
- <br>
  [Discord](https://discord.com/users/441816577424228353)
  <br>
  [Reddit](https://www.reddit.com/user/B0TPlayer)
