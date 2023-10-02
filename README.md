@@ -11,9 +11,8 @@ I'm a student who got an interest in computer science, music and art!
 <br>
 You can follow my progress here, on Github! or on my social media
  
- [Discord](https://discord.com/users/441816577424228353)
+ [Discord](https://discord.com/users/807945349926617088)
  <br>
- [Reddit](https://www.reddit.com/user/B0TPlayer)
 </details>
 
 *Cool statistic board thing*
