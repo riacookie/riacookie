@@ -17,7 +17,7 @@ You can follow my progress here, on Github! or on my social media
 
 *Cool statistic board thing*
 
-![oofiedev's github stats](https://github-readme-stats.vercel.app/api?username=oofiedev&theme=dracula&show_icons=true)
+![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=riadev&theme=dracula&show_icons=true)
 
 <!--
 **oofiedev/oofiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
