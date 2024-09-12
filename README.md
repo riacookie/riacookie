@@ -11,7 +11,7 @@ I'm a student who got an interest in computer science, music and art!
 <br>
 You can follow my progress here, on Github! or on my social media
  
- [Discord](https://discord.com/users/807945349926617088)
+Discord: ria.cookie
  <br>
 </details>
 
