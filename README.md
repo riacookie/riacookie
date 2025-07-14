@@ -17,7 +17,7 @@ Discord: ria.cookie
 
 *Cool statistic board thing*
 
-![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=riadev&theme=dracula&show_icons=true)
+![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=riacookie&theme=dracula&show_icons=true)
 
 <!--
 **oofiedev/oofiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
