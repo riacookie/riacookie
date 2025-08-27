@@ -20,7 +20,7 @@ Discord: ria.cookie
 ![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=riacookie&theme=dracula&show_icons=true)
 
 <!--
-**oofiedev/oofiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**riacookie/riacookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
